@@ -21,6 +21,7 @@ defineProps({
   background: white;
   padding: 1rem;
   border-radius: 1rem;
+  box-shadow: 0px 20px 20px hsla(218, 44%, 22%, 0.15);
 }
 
 .card img {
@@ -45,6 +46,6 @@ defineProps({
   text-align: center;
   max-width: 85%;
   margin: 0 auto;
-  margin-bottom: 2rem;
+  margin-bottom: 1rem;
 }
 </style>
