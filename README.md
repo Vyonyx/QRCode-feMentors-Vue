@@ -23,7 +23,7 @@ Creating a QR Code component was the first beginner challenge offered on Front E
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [QRCode-feMentors-Vue](https://vyonyx.github.io/QRCode-feMentors-Vue/)
 
 ## My process
 
